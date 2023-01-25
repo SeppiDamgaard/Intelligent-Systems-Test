@@ -1,5 +1,6 @@
 # 4.1 Observer pattern
 The observer pattern is a design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any changes to its state. Observer patterns is very useful for reducing coupling in larger projects, or if you have 3rd party data sources.
+
 ![alt text](https://github.com/SeppiDamgaard/Intelligent-Systems-Test/blob/master/4%20-%20Design%20patterns/Obersver%20pattern.png)
 
 
